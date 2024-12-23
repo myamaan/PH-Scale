@@ -1,3 +1,6 @@
+* {
+   margin: 0%;
+}
 #scale-1 {
     background-color: #ec1d26;
 }
@@ -38,5 +41,14 @@
 }
 
 #scale-11 {
-    background-color: ;
+    background-color:#1e6bb3;
+}
+#scale-12 {
+    background-color:#3652a3 ;
+}
+#scale-13 {
+    background-color:#623f98 ;
+}
+#scale-14 {
+    background-color:#6f3996 ;
 }
